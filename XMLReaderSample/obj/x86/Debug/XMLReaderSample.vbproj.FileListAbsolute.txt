@@ -1,0 +1,40 @@
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\bin\Debug\XMLReaderSample.exe
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\bin\Debug\XMLReaderSample.pdb
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\bin\Debug\XMLReaderSample.xml
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Form1.resources
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Resources.resources
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.vbproj.GenerateResource.Cache
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.exe
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.xml
+C:\Users\vcisneros\Documents\Visual Studio 2010\Projects\ContaElectronica\XMLReaderSample\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.pdb
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Form1.resources
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Resources.resources
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.vbproj.GenerateResource.Cache
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.frmDetallePolizaNomina.resources
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\wsarabia\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Form1.resources
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.frmDetallePolizaNomina.resources
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Resources.resources
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.vbproj.GenerateResource.Cache
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\wsarabia\Documents\respaldo\Documents\PROYECTOS\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Form1.resources
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.frmDetallePolizaNomina.resources
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.Resources.resources
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.vbproj.GenerateResource.Cache
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.exe
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.pdb
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\bin\Debug\ValidadorContabilidadElectronicaOxiteno.xml
+C:\Users\jose.mosco.ext\Documents\Alfonso\Validador Contabilidad Electronica\Interprete_XML\XMLReaderSample\XMLReaderSample\obj\x86\Debug\XMLReaderSample.vbprojResolveAssemblyReference.cache
